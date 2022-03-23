@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoddingChallenge TwoActivities</string>
+    <string name="button_text_three">Text Three</string>
+    <string name="button_text_two">Text Two</string>
+    <string name="button_text_one">Text One</string>
+    <string name="activity2_name">Second Activity</string>
+</resources>
